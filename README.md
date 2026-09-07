@@ -4,7 +4,7 @@ Desenvolvedor Mobile & Web — Tapurah, MT, Brasil
 
 Eu entrego produto, nao prototipo. Tres projetos publicados ate aqui: um jogo com motor proprio na Google Play, um app entregue para um cliente nos EUA e uma plataforma que uso todo dia na minha propria cidade.
 
-Site / portfolio: https://claude.ai/code/artifact/af7eb31b-c9a2-44ff-aa85-c5141e4392e9
+Site / portfolio: https://srmenip.github.io/
 
 ## O que ja publiquei
 

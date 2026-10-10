@@ -2,7 +2,7 @@
 
 Desenvolvedor Mobile & Web — Tapurah, MT, Brasil
 
-Eu entrego produto, nao prototipo. Tres projetos publicados ate aqui: um jogo com motor proprio na Google Play, um app entregue para um cliente nos EUA e uma plataforma que uso todo dia na minha propria cidade.
+Eu entrego produto, nao prototipo. Quatro projetos publicados ate aqui: um jogo com motor proprio na Google Play, um app entregue para um cliente nos EUA, uma plataforma que uso todo dia na minha propria cidade e um app que mostra onde esta mais barato nela.
 
 Site / portfolio: https://srmenip.github.io/
 
@@ -13,15 +13,20 @@ Jogo arcade 100% nativo em Kotlin, sem game engine — motor de fisica, audio e 
 `Kotlin` `Android SDK` `Firebase`
 Loja: https://play.google.com/store/apps/details?id=com.lmsstudio.quackclimb
 
-### VipClean — Android + iOS (em lancamento)
-App de gestao para um cliente nos Estados Unidos, em React Native. Infraestrutura propria (AWS + Cloudflare) sob a conta do cliente. Em teste fechado na Google Play, com build de producao ja enviado a App Store.
+### VipClean — Android + iOS
+App de gestao para empresas de limpeza, feito para um cliente nos Estados Unidos, em React Native. Infraestrutura propria (AWS + Cloudflare) sob a conta do cliente.
 `React Native` `Expo` `AWS` `Cloudflare`
-Repositorio privado — projeto de cliente sob confidencialidade.
+Lojas: [Google Play](https://play.google.com/store/apps/details?id=site.vipclean.app) · [App Store](https://apps.apple.com/us/app/vipclean-cleaning-business/id6809106217)
 
-### Tapurah.com — Web + Android
-Portal que criei para a minha propria cidade, Tapurah (MT): noticias, vagas, comercio local e imoveis para 15,6 mil moradores. Inclui painel administrativo e um app Android complementar (TWA).
-`Web` `Painel admin` `Android (TWA)`
+### Tapurah.com — Web
+Portal que criei para a minha propria cidade, Tapurah (MT), para 15,6 mil moradores: guia comercial com precos, noticias, vagas, jogos e painel de apuracao das eleicoes. Inclui painel administrativo.
+`PHP` `Painel admin`
 Site: https://tapurah.com/
+
+### App Tapurah — Google Play
+App para saber onde esta mais barato em Tapurah: mercado, posto, farmacia, marmita e acougue. Precos enviados por foto, com data e local.
+`React Native` `Expo` `Node.js`
+Loja: https://play.google.com/store/apps/details?id=com.tapurah
 
 ## Com o que trabalho
 
